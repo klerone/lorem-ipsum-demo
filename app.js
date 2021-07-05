@@ -2,6 +2,7 @@
 const express = require("express")
 const app = express()
 
+//Este codigo envia la pagina web
 // use the express-static middleware
 //app.use(express.static("public"))
 
